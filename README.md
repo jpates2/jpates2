@@ -4,7 +4,7 @@
 
 :white_check_mark: I've recently completed the Web Development bootcamp at Le Wagon Barcelona. 
 
- I'm continuing my learning in Ruby on Rails, HTML, CSS and Javascript. 
+:books: I'm continuing my learning in Ruby on Rails, HTML, CSS and Javascript. 
 
 :mag_right: I'm searching for a Fullstack Developer role. 
 
