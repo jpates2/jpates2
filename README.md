@@ -8,6 +8,8 @@
 
 :mag_right: I'm searching for a Fullstack Developer role. 
 
+<br>
+
 <!--
 **jpates2/jpates2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
