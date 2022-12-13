@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Jess 👋 
+
+<br>
+
+:white_check_mark: I've recently completed the Web Development bootcamp at Le Wagon Barcelona. 
+
+ I'm continuing my learning in Ruby on Rails, HTML, CSS and Javascript. 
+
+:mag_right: I'm searching for a Fullstack Developer role. 
 
 <!--
 **jpates2/jpates2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
