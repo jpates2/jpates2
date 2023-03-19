@@ -2,11 +2,15 @@
 
 <br>
 
-:white_check_mark: I've recently completed the Web Development bootcamp at Le Wagon Barcelona. 
+:white_check_mark: Recently completed the Web Development bootcamp at Le Wagon Barcelona. 
 
-:books: I'm continuing my learning in Ruby on Rails, HTML, CSS and Javascript. 
+:computer: Experience in Ruby on Rails, HTML, CSS, SQL and Javascript.
 
-:mag_right: I'm searching for a Fullstack Developer role. 
+:books: Learning focus is JavaScript / TypeScript / React. 
+
+:es: Currently based in Barcelona and learning Spanish.
+
+:mag_right: Searching for a Fullstack / Backend / Frontend Developer role. 
 
 <br>
 
