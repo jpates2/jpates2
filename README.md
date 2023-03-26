@@ -12,6 +12,8 @@
 
 :mag_right: Searching for a Fullstack / Backend / Frontend Developer role. 
 
+:thought_balloon: Profile page: www.jesspates.com
+
 <br>
 
 <!--
