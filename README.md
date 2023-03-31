@@ -14,6 +14,8 @@
 
 :thought_balloon: Profile page: www.jesspates.com
 
+:video_game: Current project: GameOn (https://gameon-ur5o.onrender.com/)
+
 <br>
 
 <!--
