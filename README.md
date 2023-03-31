@@ -8,7 +8,7 @@
 
 :books: Learning focus is JavaScript / TypeScript / React. 
 
-:es: Currently based in Barcelona and also learning Spanish.
+:es: Currently based in Barcelona and learning Spanish.
 
 :mag_right: Searching for a Fullstack / Backend / Frontend Developer role. 
 
