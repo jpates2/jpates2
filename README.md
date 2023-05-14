@@ -12,6 +12,8 @@
 
 :mag_right: Searching for a Fullstack / Backend / Frontend Developer role. 
 
+:mailbox: Contact me on jesspates@hotmail.co.uk
+
 :thought_balloon: Profile page: www.jesspates.com
 
 :video_game: Current project: GameOn (https://gameon-ur5o.onrender.com/)
