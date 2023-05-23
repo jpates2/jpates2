@@ -4,9 +4,9 @@
 
 :white_check_mark: Recently completed the Web Development bootcamp at Le Wagon Barcelona. 
 
-:computer: Experience in Ruby on Rails, HTML, CSS, SQL and Javascript.
+:computer: Experience in Ruby on Rails, HTML, CSS, SQL, JavaScript & TypeScript.
 
-:books: Learning focus is JavaScript / TypeScript / React. 
+:books: Learning focus is JavaScript / React. 
 
 :es: Currently based in Barcelona and learning Spanish.
 
