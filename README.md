@@ -2,19 +2,19 @@
 
 <br>
 
-:white_check_mark: Recently completed the Web Development bootcamp at Le Wagon Barcelona. 
+:white_check_mark: Completed Web Development bootcamp at Le Wagon Barcelona. 
 
 :computer: Experience in Ruby on Rails, HTML, CSS, SQL, JavaScript & TypeScript.
 
-:books: Learning focus is JavaScript / React. 
+:books: Current focus is JavaScript / React. 
 
-:es: Currently based in Barcelona and learning Spanish.
+:es: Based in Barcelona and learning Spanish, moving back to the UK in July.
 
 :mag_right: Searching for a Fullstack / Backend / Frontend Developer role. 
 
-:mailbox: Contact me on jesspates@hotmail.co.uk
+:mailbox: Contact me on jesspates@hotmail.co.uk or via https://www.linkedin.com/in/jess-pates
 
-:thought_balloon: Profile page: www.jesspates.com
+:thought_balloon: Profile page: www.jesspates.com 
 
 :video_game: Current project: GameOn (https://gameon-ur5o.onrender.com/)
 
