@@ -8,9 +8,9 @@
 
 :books: Current focus is JavaScript / React. 
 
-:es: Based in Barcelona and learning Spanish, moving back to the UK in July.
-
 :mag_right: Searching for a Fullstack / Backend / Frontend Developer role. 
+
+:es: Based in London but open to jobs elsewhere.
 
 :mailbox: Contact me on jesspates@hotmail.co.uk or via https://www.linkedin.com/in/jess-pates
 
