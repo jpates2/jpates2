@@ -6,13 +6,13 @@
 
 :computer: Experience in Ruby on Rails, HTML, CSS, SQL, JavaScript & TypeScript.
 
-:books: Current focus is JavaScript / React. 
+:books: Current focus is JavaScript / React / Tailwind. 
 
-:mag_right: Searching for a Fullstack / Backend / Frontend Developer role. 
+:mag_right: Searching for a Fullstack / Frontend / Backend Developer role. 
 
-:gb: Based in London but open to jobs elsewhere.
+:gb: Based in London, open to jobs here and elsewhere.
 
-:mailbox: Contact me on jesspates@hotmail.co.uk or via https://www.linkedin.com/in/jess-pates
+:mailbox: Contact me on jesspates1@gmail.com or via https://www.linkedin.com/in/jess-pates
 
 :thought_balloon: Profile page: www.jesspates.com 
 
