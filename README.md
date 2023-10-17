@@ -6,8 +6,6 @@
 
 :computer: Experience in Ruby on Rails, React, HTML, CSS, Tailwind, SQL, JavaScript & TypeScript.
 
-:books: Current focus is React. 
-
 :mag_right: Searching for a Fullstack / Frontend / Backend Developer role. 
 
 :gb: Based in London, open to jobs here and elsewhere.
