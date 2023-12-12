@@ -12,7 +12,7 @@
 
 :mailbox: Contact me on jesspates1@gmail.com or via https://www.linkedin.com/in/jess-pates
 
-:thought_balloon: Profile page: [www.jesspates.com](https://www.jesspates.com)
+📍: Profile page: [www.jesspates.com](https://www.jesspates.com)
 
 <br>
 <section align = center>
